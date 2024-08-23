@@ -4,7 +4,7 @@
 
 This repository contains the source code for a Creative Design Agency website. The website is designed to showcase the agency's services, focusing on beauty and construction web design.
 
-![Alt text](path/to/image)
+![DESIGN](SAMPLE1.png)
 
 
 ## Features
